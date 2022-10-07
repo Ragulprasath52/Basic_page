@@ -6,7 +6,8 @@ body{
 header h3{
     text-align: start;
     font-size: 30px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 header{
@@ -37,4 +38,30 @@ header{
 .topnav a.one{
     background-color: #04AA6D;
     color: white;
+}
+
+main{
+    background-color: white;
+    color: black;
+}
+
+main h3{
+    text-align: center;
+}
+
+.div_items{
+    text-align: center;
+    width: 1000px;
+    margin: 100px auto;
+    padding-bottom: 800px;
+}
+.item{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+footer{
+    background-color:#1F2937 ;
+    padding: 50px 50px;
+    margin-top: 20px;
 }
